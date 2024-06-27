@@ -57,9 +57,3 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=12161252242&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/StxvenDev/StxvenDev/output/snake.svg" alt="Snake animation" />
-
-###
