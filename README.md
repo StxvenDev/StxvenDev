@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a backend developer specializing in Node.js and Express. I enjoy building scalable and efficient server-side applications and APIs. My passion lies in solving complex problems and continually improving my coding skills.</p>
+<p align="left">I'm a backend developer specializing in Node.js, Express and NestJs. I enjoy building scalable and efficient server-side applications and APIs. My passion lies in solving complex problems and continually improving my coding skills.</p>
 
 ###
 
