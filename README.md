@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React - Redux - Nestjs<br>🎯 Goals: To be qualified to be a Fullstack Dev</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning IA - ML - Nestjs - AWS <br>🎯 Goals: To be qualified to be a Fullstack Dev</p>
 
 ###
 
